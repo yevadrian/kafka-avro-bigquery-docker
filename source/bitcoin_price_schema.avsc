@@ -1,0 +1,34 @@
+{
+  "name": "bitcoin_price_value",
+  "type": "record",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    },
+    {
+      "name": "Open",
+      "type": "string"
+    },
+    {
+      "name": "High",
+      "type": "string"
+    },
+    {
+      "name": "Low",
+      "type": "string"
+    },
+    {
+      "name": "Close",
+      "type": "string"
+    },
+    {
+      "name": "Volume",
+      "type": "string"
+    },
+    {
+      "name": "Market_Cap",
+      "type": "string"
+    }
+  ]
+}
