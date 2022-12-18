@@ -1,4 +1,4 @@
-### Using Apache Kafka and Confluent Schema Registry to stream local data into Google BigQuery
+### Using Apache Kafka and Confluent Schema Registry to stream data into Google BigQuery
 
 This project includes the dataset and the script needed to load the source data into the Kafka topic.
 Messages from the file are serialized into Avro format, then sent into the Kafka Topic by the producer.
